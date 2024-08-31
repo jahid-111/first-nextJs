@@ -1,7 +1,7 @@
 import React from "react";
 
 const HeavyPage = () => {
-  throw new Error("Error Analytics");
+  // throw new Error("Error Analytics");
   return (
     <div>
       <h3>Heavy Page</h3>
