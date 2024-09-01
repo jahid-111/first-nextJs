@@ -20,6 +20,9 @@ export default function RootLayout({ children }) {
               <CustomLink path="/">Home</CustomLink>
             </li>
             <li>
+              <CustomLink path="/blogs">blogs</CustomLink>
+            </li>
+            <li>
               <CustomLink path="/analytics">Analytics</CustomLink>
             </li>
             <li>
